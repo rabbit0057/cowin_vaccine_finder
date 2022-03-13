@@ -1,10 +1,9 @@
 # VACCINATION SLOT FINDER 
 To find the vaccination available via pincode - Only india ip is allowed
-'''
+
             sender_email = ""          ######## SENDER EMAIL ID ###############
             receiver_email = ""        ######## RECEIVER EMAIL ID ###############
             password = ""                     ######## SENDER EMAIL ID PASSWORD ###############
-'''
             
  Do above changes in the code to receive alerts via email
  
